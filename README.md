@@ -105,3 +105,11 @@
 * npm install babel webpack-dev-server -g
 * npm install
 * npm start
+
+### 14_DynamicallyGeneratedComponents
+
+> 介绍循环构建数据row
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
