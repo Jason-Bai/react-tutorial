@@ -89,3 +89,19 @@
 * npm install babel webpack-dev-server -g
 * npm install
 * npm start
+
+### 12_HigherOrderComponents
+
+> 介绍一种方式可以通过传递component，创建通用的component factory
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
+
+### 13_ComposableComponents
+
+> 介绍构建通用的组件
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
