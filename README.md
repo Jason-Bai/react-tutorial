@@ -81,3 +81,11 @@
 * npm install babel webpack-dev-server -g
 * npm install
 * npm start
+
+### 11_ComponentLifecycle_Updaing
+
+> 介绍componentWillReceiveProps、shouldComponentUpdate及componentDidUpdate使用场景
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
