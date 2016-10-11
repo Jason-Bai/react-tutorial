@@ -33,3 +33,11 @@
 * npm install babel webpack-dev-server -g
 * npm install
 * npm start
+
+### 05_StateBasics
+
+> 介绍如何使用state及如何绑定eventMethod
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start

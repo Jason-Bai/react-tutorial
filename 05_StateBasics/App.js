@@ -2,11 +2,27 @@ import React from 'react'
 
 
 class App extends React.Component {
+
+  constructor() {
+    super()
+    this.state = {
+      txt: 'this is state txt',
+      cat: 0
+    }
+  }
+
+  update(e) {
+    // 通过this.setState设置state
+    this.setState({txt: e.target.value})
+  }
+
   render() {
-    // JSX中节点上的属性可以通过`{this.props[propertyName]}`调用
+    // JSX中节点上的属性可以通过`{this.state[stateName]}`调用
+    // 通过`{this.eventMethod.bind(this)}`方式进行绑定
     return (
       <div>
-        {this.props.txt}-{this.props.cat}
+        <input type="text" onChange={this.update.bind(this)} />
+        <h1>{this.state.txt}</h1>
       </div>
     )
   }
