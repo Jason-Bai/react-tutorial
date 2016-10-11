@@ -65,3 +65,11 @@
 * npm install babel webpack-dev-server -g
 * npm install
 * npm start
+
+### 09_ComponentLifecycle_MountingBasics
+
+> 介绍componentWillMount、render、componentDidMount及componnetWillUnmount触发时间
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
