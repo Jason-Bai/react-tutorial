@@ -73,3 +73,11 @@
 * npm install babel webpack-dev-server -g
 * npm install
 * npm start
+
+### 10_ComponentLifecycle_MountingUsage
+
+> 介绍componentDidMount及componnetWillUnmount使用场景
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
