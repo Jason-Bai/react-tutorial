@@ -41,3 +41,11 @@
 * npm install babel webpack-dev-server -g
 * npm install
 * npm start
+
+### 06_OwnerOwneeRelationship
+
+> 介绍将公共的内容组装成一个通用组件
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
