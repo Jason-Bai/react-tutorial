@@ -49,3 +49,19 @@
 * npm install babel webpack-dev-server -g
 * npm install
 * npm start
+
+### 07_UsingRefsToAccessComponents
+
+> 介绍refs控制独立的DOM
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
+
+### 08_AccessingChildProperties
+
+> 介绍如何获取ReactNode内部的内容
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
