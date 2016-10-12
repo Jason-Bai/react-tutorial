@@ -47,4 +47,28 @@ class App extends React.Component {
   }
 }
 
+
+/*
+
+将以下内容输入到textarea中，右侧就可以查看结果
+
+class App extends React.Component {
+    render() {
+        var myStyle = {
+            backgroundColor: '#000',
+            fontSize: '12px'
+        };
+        return (
+            <div style={myStyle}>
+                <header>This is header!</header>
+                <a href="#">This is a tag!</a>
+            </div>
+        )
+    }
+}
+
+*/
+
+
+
 export default App

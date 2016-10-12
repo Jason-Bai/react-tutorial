@@ -113,3 +113,26 @@
 * npm install babel webpack-dev-server -g
 * npm install
 * npm start
+
+### 15_BuildAJSXLiveComplier
+
+> 介绍构建一个在线babel转化器
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
+
+### 16_JSXDeepDive
+
+> 介绍es2015的代码专程ec5的代码格式
+
+* npm install babel webpack-dev-server -g
+* npm install
+* npm start
+
+### 17_PrecompileJSX
+
+> 介绍babel-cli预编译代码
+
+* npm install babel webpack-dev-server babel-cli -g
+* babel --presets react src.js -o dist.js --watch
